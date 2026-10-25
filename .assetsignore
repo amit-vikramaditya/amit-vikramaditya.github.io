@@ -1,5 +1,6 @@
 .git
 .github
+.wrangler
 .assetsignore
 wrangler.jsonc
 CNAME
