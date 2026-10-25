@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amit-vikramaditya.me/sitemap.xml
+Sitemap: https://amitvikramaditya.com/sitemap.xml
